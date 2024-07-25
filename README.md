@@ -63,3 +63,4 @@ To learn more about Makeswift, take a look at the following resources:
 - [Makeswift Discord Community](https://discord.gg/dGNdF3Uzfz)
 
 You can check out [the Makeswift GitHub repository](https://github.com/makeswift/makeswift) - your feedback and contributions are welcome!
+# nftprojec2
